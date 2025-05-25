@@ -13,7 +13,7 @@ export default function App() {
 
   return (
     <section className="bg-slate-50 dark:bg-slate-950 min-h-screen">
-        <div className="w-full h-screen overflow-hidden bg-slate-50 dark:bg-slate-950">
+        <div className="w-full h-[100svh] overflow-hidden bg-slate-50 dark:bg-slate-950">
             {activeStory ? (
                 <StoryViewer
                 users={users}
