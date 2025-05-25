@@ -63,14 +63,17 @@ export default function StoryViewer({ users, active, setActive, onClose }) {
         <div className="h-1 bg-white/30 rounded">
           <div className="h-1 bg-white rounded transition-all duration-100 linear" style={{ width: `${progress}%` }}></div>
         </div>
-        <div className="flex items-center mt-2">
+        <div className="flex items-center mt-2 bg-black/30 rounded p-2">
           <img src={`https://quitter-git-main-sumitabha.vercel.app/avatar/${user.image}`} alt={user.username} className="w-8 h-8 rounded-full mr-2" />
-          <span className="font-semibold text-sm dark:text-slate-50">{user.username}</span>
-          <span className="ml-2 text-xs text-gray-300 dark:text-gray-700">{getTimeAgo(story.timestamp)}</span>
+          <div className="">
+            <span className="ml-2 font-semibold text-sm dark:text-slate-50 block">{user.username}</span>
+            <span className="ml-2 text-xs text-gray-300 dark:text-gray-500 block">{getTimeAgo(story.timestamp)}</span>
+          </div>
         </div>
       </div>
       <div className="absolute top-0 left-0 w-1/2 h-full z-20" onClick={prevStory}></div>
       <div className="absolute top-0 right-0 w-1/2 h-full z-20" onClick={nextStory}></div>
+      <div className="absolute bottom-8 right-1/2 translate-x-1/2 z-30 bg-white text-black dark:bg-slate-800 dark:text-white px-6 py-2 rounded-full shadow-md cursor-pointer" onClick={onClose}>Close</div>
     </div>
   )
 }
