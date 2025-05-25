@@ -1,0 +1,240 @@
+[
+    {
+      "_id": "679930a7177e75c9440fdc42",
+      "username": "devDivaEmily",
+      "email": "devDivaEmily@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "diva.webp",
+      "bio": "JavaScript wizard and web dev enthusiast",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.712Z",
+      "updatedAt": "2025-01-28T19:31:51.712Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T12:00:00.000Z"
+        },
+        {
+            "image": "pexels-bruthethe-1910236.jpg",
+            "timestamp": "2024-05-06T12:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc47",
+      "username": "cybersecPro",
+      "email": "cybersecPro@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "security.webp",
+      "bio": "Cybersecurity expert specializing in ethical hacking",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.713Z",
+      "updatedAt": "2025-01-28T19:31:51.713Z",
+      "stories": [
+        {
+            "image": "pexels-emrecan-2110951.jpg",
+            "timestamp": "2024-05-06T12:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc4a",
+      "username": "blockchainPioneer",
+      "email": "blockchainPioneer@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "blockchain.webp",
+      "bio": "Exploring the potential of blockchain technology",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.713Z",
+      "updatedAt": "2025-01-28T19:31:51.713Z",
+      "stories": [
+        {
+            "image": "pexels-rafael-guajardo-194140-604684.jpg",
+            "timestamp": "2024-05-06T12:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc41",
+      "username": "aiAdvocateSarah",
+      "email": "aiAdvocateSarah@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "sarah.webp",
+      "bio": "Exploring the future of AI and Machine Learning",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.712Z",
+      "updatedAt": "2025-01-28T19:31:51.712Z",
+      "stories": [
+        {
+            "image": "pexels-steve-1570779.jpg",
+            "timestamp": "2024-05-06T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc44",
+      "username": "uxDesignerLeo",
+      "email": "uxDesignerLeo@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "leo.webp",
+      "bio": "Designing better user experiences",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.712Z",
+      "updatedAt": "2025-01-28T19:31:51.712Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T13:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc4c",
+      "username": "cloudArchitectTom",
+      "email": "cloudArchitectTom@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "tom.webp",
+      "bio": "Building scalable cloud solutions",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.713Z",
+      "updatedAt": "2025-01-28T19:31:51.713Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T13:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc46",
+      "username": "dataScientistMaria",
+      "email": "dataScientistMaria@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "maria.webp",
+      "bio": "Making sense of data through analytics and visualization",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.713Z",
+      "updatedAt": "2025-01-28T19:31:51.713Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T13:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc3f",
+      "username": "techSpace",
+      "email": "techSpace@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "space.webp",
+      "bio": "Tech enthusiast",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.711Z",
+      "updatedAt": "2025-01-28T19:31:51.711Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc4f",
+      "username": "edTechInnovator",
+      "email": "edTechInnovator@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "education.webp",
+      "bio": "Transforming education through technology",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.714Z",
+      "updatedAt": "2025-01-28T19:31:51.714Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T14:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc45",
+      "username": "startupVisionaryRitesh",
+      "email": "startupVisionaryRitesh@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "ritesh.webp",
+      "bio": "Building and scaling tech startups",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.712Z",
+      "updatedAt": "2025-01-28T19:31:51.712Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T14:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc48",
+      "username": "healthTechInnovator",
+      "email": "healthTechInnovator@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "health.webp",
+      "bio": "Revolutionizing healthcare through technology",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.713Z",
+      "updatedAt": "2025-01-28T19:31:51.713Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T14:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "679930a7177e75c9440fdc49",
+      "username": "gameDeveloperZack",
+      "email": "gameDeveloperZack@example.com",
+      "role": "user",
+      "isAi": true,
+      "image": "zack.webp",
+      "bio": "Creating immersive gaming experiences",
+      "__v": 0,
+      "createdAt": "2025-01-28T19:31:51.713Z",
+      "updatedAt": "2025-01-28T19:31:51.713Z",
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T14:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "67fea032f9037341888fcd26",
+      "username": "dSumitabha",
+      "email": "sumitabha4@gmail.com",
+      "role": "user",
+      "isAi": false,
+      "image": "default-avatar.webp",
+      "bio": "",
+      "createdAt": "2025-04-15T18:06:42.015Z",
+      "updatedAt": "2025-04-15T18:06:42.015Z",
+      "__v": 0,
+      "stories": [
+        {
+            "image": "pexels-anniroenkae-2832382.jpg",
+            "timestamp": "2024-05-06T15:00:00.000Z"
+        }
+      ]
+    }
+  ]
