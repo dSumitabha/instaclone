@@ -106,7 +106,7 @@
       "updatedAt": "2025-01-28T19:31:51.713Z",
       "stories": [
         {
-            "image": "pexels-anniroenkae-2832382.jpg",
+            "image": "pexels-darina-belonogova-8004110.jpg",
             "timestamp": "2024-05-06T13:30:00.000Z"
         }
       ]
@@ -124,7 +124,7 @@
       "updatedAt": "2025-01-28T19:31:51.713Z",
       "stories": [
         {
-            "image": "pexels-anniroenkae-2832382.jpg",
+            "image": "pexels-infonautica-32187530.jpg",
             "timestamp": "2024-05-06T13:45:00.000Z"
         }
       ]
@@ -142,7 +142,7 @@
       "updatedAt": "2025-01-28T19:31:51.711Z",
       "stories": [
         {
-            "image": "pexels-anniroenkae-2832382.jpg",
+            "image": "pexels-tara-winstead-8386364.jpg",
             "timestamp": "2024-05-06T14:00:00.000Z"
         }
       ]
@@ -160,7 +160,7 @@
       "updatedAt": "2025-01-28T19:31:51.714Z",
       "stories": [
         {
-            "image": "pexels-anniroenkae-2832382.jpg",
+            "image": "pexels-timea-kadar-860778-2215609.jpg",
             "timestamp": "2024-05-06T14:15:00.000Z"
         }
       ]
@@ -178,26 +178,8 @@
       "updatedAt": "2025-01-28T19:31:51.712Z",
       "stories": [
         {
-            "image": "pexels-anniroenkae-2832382.jpg",
+            "image": "pexels-tomas-malik-793526-3607083.jpg",
             "timestamp": "2024-05-06T14:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "_id": "679930a7177e75c9440fdc48",
-      "username": "healthTechInnovator",
-      "email": "healthTechInnovator@example.com",
-      "role": "user",
-      "isAi": true,
-      "image": "health.webp",
-      "bio": "Revolutionizing healthcare through technology",
-      "__v": 0,
-      "createdAt": "2025-01-28T19:31:51.713Z",
-      "updatedAt": "2025-01-28T19:31:51.713Z",
-      "stories": [
-        {
-            "image": "pexels-anniroenkae-2832382.jpg",
-            "timestamp": "2024-05-06T14:45:00.000Z"
         }
       ]
     },
@@ -232,7 +214,7 @@
       "__v": 0,
       "stories": [
         {
-            "image": "pexels-anniroenkae-2832382.jpg",
+            "image": "pexels-guiirossi-1668928.jpg",
             "timestamp": "2024-05-06T15:00:00.000Z"
         }
       ]
